@@ -32,7 +32,7 @@ void mousePressed() {
 
 void Background() {
   background(135,206,235);
-  strokeWeight(0);
+  strokeWeight(1);
   stroke(128);
   fill(128);
   ellipse(250,0,200,200);
